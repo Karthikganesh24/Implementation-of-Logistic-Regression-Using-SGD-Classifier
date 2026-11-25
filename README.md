@@ -48,7 +48,10 @@ print("Accuracy:", accuracy)
 ```
 
 ## Output:
-Implementation-of-Logistic-Regression-Using-SGD-Classifier/output/Screenshot 2026-11-25 100200.png
+
+![alt text](<Screenshot 2026-11-25 100200.png>)
+
+
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
